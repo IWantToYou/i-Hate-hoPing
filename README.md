@@ -135,7 +135,7 @@ Actualmente se encuentra en fase de integración entre hardware y software.
 
 ## 🧑‍💻 Autor
 
-Proyecto desarrollado como iniciativa de aprendizaje en programación avanzada, electrónica e integración de sistemas.
+## MotorCaI 🦜
 
 ---
 

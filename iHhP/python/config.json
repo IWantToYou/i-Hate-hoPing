@@ -1,0 +1,26 @@
+{
+  "serial": {
+    "port": "COM3",
+    "baudrate": 9600,
+    "timeout": 1
+  },
+  "camera": {
+    "index": 0,
+    "frame_width": 640,
+    "frame_height": 480
+  },
+  "umbrales": {
+    "alto": 45,
+    "medio": 25
+  },
+  "alertas": {
+    "correcto": {"color": "verde", "freq": 800, "duration": 150},
+    "optimizable": {"color": "amarillo", "freq": 1200, "duration": 400},
+    "desperdicio": {"color": "rojo", "freq": 2000, "duration": 1200}
+  },
+  "co2_factor": 0.4,
+  "output": {
+    "csv_path": "../data/datos_luz.csv",
+    "graficas_path": "../data/"
+  }
+}
